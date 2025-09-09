@@ -8,4 +8,4 @@ test:
 	pytest --cov=hello test_hello.py
 
 format:
-	black
+	black hello.py
